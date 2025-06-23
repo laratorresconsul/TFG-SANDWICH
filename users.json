@@ -1,0 +1,59 @@
+{
+  "Laratorres111": {
+    "salt": "0dd971145f026a6cbdbc5a53648e442c",
+    "password": "66cf4bce81961dae2fdea60d802d3b5aec8bf48a616e5bc638fcd8db159d1ac9",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "Ejemplo123": {
+    "salt": "5e6b414695a830a5444bac02a11f8fdc",
+    "password": "e6834785ba351d467c06298793a3841e1b78be4ab8f92f9e7d9f270d95212355",
+    "attempts": 2,
+    "last_attempt": "2025-06-21T00:44:08.615685"
+  },
+  "Ejemplo1234": {
+    "salt": "c28f9efc62c7752db8b4d9fc58b63714",
+    "password": "840d08aacea544fecfff1885f5c57b2d146f073d769a7b752551ff6ea4db53b8",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "Ejemplo123*": {
+    "salt": "18dc331e43118e3e185fec5f1e01b200",
+    "password": "4db7844a21b255044d8347ed83568b39efb92209f55115751f50c3e0012be906",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "Natalia123": {
+    "salt": "b763a7eff102816c0ba6184cb09e6b02",
+    "password": "7b215d5984bd7045e1e9f965b9456fc0c8e715045828850be86eadc0d8c9acd5",
+    "attempts": 0,
+    "last_attempt": null,
+    "mensajes": [
+      "holi"
+    ]
+  },
+  "Usuario1": {
+    "salt": "cf2fabf827cb60b485b0354a4daad4d5",
+    "password": "27059a0b67ef094beb2a35905d4149d138bbb1fdf0839c634fd10090e4d1f62f",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "Usuario333": {
+    "salt": "f32e6c10c0f2fb3d7050a2abef47b446",
+    "password": "9f674fba22844c795b7672cc13481b7bc77cad08bcbd1ed0301596bf7c42f78c",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "HOLAHOLA123": {
+    "salt": "e46e75d76225fdf543796efbb8aceb51",
+    "password": "a7ad35758711ac276be1b648b3f42de2a8c827d1cf50928b6d1df7b76338f886",
+    "attempts": 0,
+    "last_attempt": null
+  },
+  "EJEMPLO123": {
+    "salt": "79f2d414d1f9a36d01e15c5e47d64c08",
+    "password": "225cbcb078c0edb5cf86bee8c06e18bdb7a1353db249a5c91e6e9199545fabdb",
+    "attempts": 0,
+    "last_attempt": null
+  }
+}
